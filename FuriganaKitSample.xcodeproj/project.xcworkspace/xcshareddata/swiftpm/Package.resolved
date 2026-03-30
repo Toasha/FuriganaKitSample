@@ -1,0 +1,15 @@
+{
+  "originHash" : "891dbc9dffeb204f155c0ea9290b1893fa20b916c18f87059d6ab6bb2bacd91a",
+  "pins" : [
+    {
+      "identity" : "furiganakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Toasha/FuriganaKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8b5b55b6ed7d26e5dfc4918bc6cb917331335b4b"
+      }
+    }
+  ],
+  "version" : 3
+}
